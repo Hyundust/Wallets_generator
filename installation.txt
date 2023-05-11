@@ -1,0 +1,8 @@
+
+
+
+
+0.Make sure that u have installed Node.js on your PC
+1. Write into the terminal  :   npm install hdkey bip39 xlsx ///Node.js dependencies
+2. To Run the script :    node eth_generator_excel.js "number of wallets that you wanna make" ///Example:node eth_generator_excel.js 10 - to generate ten wallets.
+3.All generated wallets will be in "eth_wallets.xlsx"///You can customise the way 
